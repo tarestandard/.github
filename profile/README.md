@@ -15,4 +15,4 @@ Two documents, one Code of Points, each versioned and dated:
 
 The standard is public. The scan is the service — it runs at [tarestandard.com](https://tarestandard.com), and a scan is a dated observation against one standard, not an accreditation.
 
-The text is licensed [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/); the marks are reserved. Tare Standard is independent of the vendors it assesses.
+The text is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the name and the marks are reserved by the [trademark policy](https://github.com/tarestandard/standard/blob/main/TRADEMARKS.md). Tare Standard is independent of the vendors it assesses.
