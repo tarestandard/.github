@@ -1,12 +1,18 @@
 # Tare Standard
 
-**The published Code of Points for testing AI agents on hotel front-desk work.**
+**The published standards for AI agents and the surfaces they use.**
 
-- **Read the standard:** [tarestandard.org](https://tarestandard.org)
-- **The documents:** [the 25 jobs](https://github.com/tarestandard/standard/blob/main/docs/jobs.md) · [finding grades](https://github.com/tarestandard/standard/blob/main/docs/grades.md) · [framework mapping and scope](https://github.com/tarestandard/standard/blob/main/docs/scope.md) · [discrimination protocol](https://github.com/tarestandard/standard/blob/main/docs/protocol.md)
-- **The record:** [changelog](https://github.com/tarestandard/standard/blob/main/CHANGELOG.md) · [releases](https://github.com/tarestandard/standard/releases)
-- **Propose a change:** [open an issue](https://github.com/tarestandard/standard/issues/new/choose)
+Two documents, one Code of Points, each versioned and dated:
 
-The standard is public. The scan is the service — it runs at [tarestandard.com](https://tarestandard.com), and a scan is a dated observation, not an accreditation.
+- **[Tare Agent Standard](https://tarestandard.org/agent)** — what a bot does in a conversation: the 29 hotel front-desk jobs, the finding grades, the framework mapping, the settled instrument and the discrimination protocol.
+- **[Tare Shopfront Standard](https://tarestandard.org/shopfront)** — what a business exposes to an agent: the 22 hotel jobs across four capabilities, the two cross-cutting checks, the five-level ladder and the dated anchors.
 
-The text is licensed [CC BY-ND 4.0](https://github.com/tarestandard/standard/blob/main/LICENSE); the marks are reserved. Tare Standard is independent of the vendors it assesses.
+**Read:** [tarestandard.org](https://tarestandard.org) · **Machine-readable release:** [standard.json](https://tarestandard.org/standard.json) · **The source:** [tarestandard/standard](https://github.com/tarestandard/standard)
+
+**The record:** [releases](https://github.com/tarestandard/standard/releases) · [Agent changelog](https://tarestandard.org/agent/changelog) · [Shopfront changelog](https://tarestandard.org/shopfront/changelog)
+
+**Propose a change:** [open an issue](https://github.com/tarestandard/standard/issues/new)
+
+The standard is public. The scan is the service — it runs at [tarestandard.com](https://tarestandard.com), and a scan is a dated observation against one standard, not an accreditation.
+
+The text is licensed [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/); the marks are reserved. Tare Standard is independent of the vendors it assesses.
